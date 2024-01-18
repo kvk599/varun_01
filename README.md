@@ -6,3 +6,8 @@ config(
         ANALYZE my_model;
     """
 )
+SELECT
+    column1,
+    column2
+FROM
+    source_table;
