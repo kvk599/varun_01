@@ -6,7 +6,3 @@ config(
         ANALYZE my_model;
     """
 )
-
-SELECT
-    column1,
-    column2
